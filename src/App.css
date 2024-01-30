@@ -1,0 +1,8 @@
+.row {
+    display: flex;
+    flex-flow: wrap;
+}
+
+.column {
+    flex: 0 0 50%;
+}
