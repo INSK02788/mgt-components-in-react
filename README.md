@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Configuration
+1. Open ./src/graph.ts file
+2. Replace cliendId and authority  in Providers.globalProvider
+![image](https://github.com/INSK02788/mgt-components-in-react/assets/84843938/980aae09-998c-409d-92ce-795c383416cb)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
